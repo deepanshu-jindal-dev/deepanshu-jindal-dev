@@ -23,14 +23,12 @@
 ---
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=deepanshu-jindal-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-jindal-dev&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=deepanshu-jindal-dev&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
 
 ---
 
-<img align="right" width="340" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623631622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742354b586b4b65726e6150316c716b496a554a4b59327753795153385578674259356e716f636a6c69614a31356a6b35335a745a79756f4666776f4b69617459344b49574259706f736c4e7a466e6b6e6f36444e686a34736d3939703638636b614c4a31366f614236614b69554c4e3149354f4e5335494a3730716c6f7549674b616f796734614c344c5a79614d486e4c776541316c6f714e397263344f3435474b426c4d48564145624c78785937504a47516a7465556f416d56626649437a59395259654e7479756a74647671713962734b66587a615a46684a2f636f64696e672e676966" />
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ### 🧑‍💻 About Me
 
@@ -87,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E9EF7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E9EF7&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&animation=fadeIn" />
 </p>
